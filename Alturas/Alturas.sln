@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alturas", "Alturas\Alturas.csproj", "{59AA1743-448C-4733-B40F-68B6F5EE0FB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alturas.Testes", "Alturas.Testes\Alturas.Testes.csproj", "{8761000B-F526-4501-BB07-879C713F69EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59AA1743-448C-4733-B40F-68B6F5EE0FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59AA1743-448C-4733-B40F-68B6F5EE0FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59AA1743-448C-4733-B40F-68B6F5EE0FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59AA1743-448C-4733-B40F-68B6F5EE0FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8761000B-F526-4501-BB07-879C713F69EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8761000B-F526-4501-BB07-879C713F69EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8761000B-F526-4501-BB07-879C713F69EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8761000B-F526-4501-BB07-879C713F69EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4842DAA8-67B5-4E11-B912-7CF988EC52BB}
+	EndGlobalSection
+EndGlobal
